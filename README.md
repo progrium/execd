@@ -2,15 +2,19 @@
 
 [![CircleCI](https://img.shields.io/circleci/project/gliderlabs/sshfront/release.svg)](https://circleci.com/gh/gliderlabs/sshfront)
 [![IRC Channel](https://img.shields.io/badge/irc-%23gliderlabs-blue.svg)](https://kiwiirc.com/client/irc.freenode.net/#gliderlabs)
-
+:
 A lightweight SSH server frontend where authentication and connections
 are controlled with command handlers / shell scripts.
+
+## Plotly Updates
+
+Forked repo to make early release of latest upstream changes.
 
 ## Using sshfront
 
 
     Usage: ./sshfront [options] <handler>
-    
+
       -a="": authentication hook. empty=allow all
       -d=false: debug mode
       -e=false: pass environment to handler
