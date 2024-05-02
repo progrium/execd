@@ -1,4 +1,4 @@
-module github.com/gliderlabs/sshfront
+module github.com/plotly/sshfront
 
 go 1.21
 
