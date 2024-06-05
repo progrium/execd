@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	. "github.com/gliderlabs/sshfront/internal"
+	. "github.com/plotly/sshfront/internal"
 	"log"
 	"net"
 	"os"
