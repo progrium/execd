@@ -6,6 +6,13 @@
 A lightweight SSH server frontend where authentication and connections
 are controlled with command handlers / shell scripts.
 
+<div align="center">
+  <a href="https://dash.plotly.com/project-maintenance">
+    <img src="https://dash.plotly.com/assets/images/maintained-by-plotly.png" width="400px" alt="Maintained by Plotly">
+  </a>
+</div>
+
+
 ## Plotly Updates
 
 Forked repo to make early release of latest upstream changes.
